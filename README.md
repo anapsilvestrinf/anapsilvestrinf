@@ -9,7 +9,7 @@
   <img align="center" alt="ana-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-original.svg">
   <img align="center" alt="ana-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linux/linux-original.svg">
   <img align="center" alt="ana-md" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/markdown/markdown-original.svg">
-  <img height="120em" align="right" alt="gif-eu" src="https://im.ezgif.com/tmp/ezgif-1-a5ccbe0c538c.gif">
+  <img height="120em" align="right" alt="gif-eu" src="<iframe src="https://media.giphy.com/media/1DKbzMblbVoxt9qx33/giphy.gif">
 </div>
   
   ##
