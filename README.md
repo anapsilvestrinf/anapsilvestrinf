@@ -10,7 +10,7 @@
   <img align="center" alt="ana-git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="ana-sql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="ana-postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="ubunto" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/1DKbzMblbVoxt9qx33/giphy.gif">
 </div>
                                                                                                                               
@@ -18,6 +18,6 @@
  
 <div> 
   <a href = "mailto:anapsilvestrinf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-paula-silvestrin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- <a href="https://www.linkedin.com/in/ana-paula-silvestrin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 
    ![Snake animation](https://github.com/anapsilvestrinf/anapsilvestrinf/blob/output/github-contribution-grid-snake.svg)
